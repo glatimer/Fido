@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/new-styles.css" rel="stylesheet" type="text/css" media="all">
+    <title>Paragraphs!</title>
+  </head>
+
+  <body>
+    <h1>Paragraphs with text!</h1>
+    <h2>Plus an intro at the top</h2>
+
+    <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu nibh hendrerit, pharetra lectus eu, pretium ante. Maecenas tempus sed mauris vel tempor. Cras scelerisque nulla at ligula fringilla tempus. Sed pulvinar auctor justo, in ultricies ante varius at. Aenean ut sodales velit, ac congue dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi elit justo, vestibulum non venenatis ac, vestibulum id lectus. Maecen</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu nibh hendrerit, pharetra lectus eu, pretium ante. Maecenas tempus sed mauris vel tempor. Cras scelerisque nulla at ligula fringilla tempus. Sed pulvinar auctor justo, in ultricies ante varius at. Aenean ut sodales velit, ac congue dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi elit justo, vestibulum non venenatis ac, vestibulum id lectus. Maecen</p>
+
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu nibh hendrerit, pharetra lectus eu, pretium ante. Maecenas tempus sed mauris vel tempor. Cras scelerisque nulla at ligula fringilla tempus. Sed pulvinar auctor justo, in ultricies ante varius at. Aenean ut sodales velit, ac congue dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi elit justo, vestibulum non venenatis ac, vestibulum id lectus. Maecen </p>
+
+
+  </body>
+</html>
